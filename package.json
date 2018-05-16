@@ -1,0 +1,62 @@
+{
+  "_from": "react-native-calendars@1.17.4",
+  "_id": "react-native-calendars@1.17.4",
+  "_inBundle": false,
+  "_integrity": "sha512-CWb17MxMnOXKcDdzzk6eMYEEmn7j3eYOG/B+1ng7Z1RKpE4LA3SpYwQnjSkkgUoEKySBpCVDXEm/K+ERL5+Vfg==",
+  "_location": "/react-native-calendars",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "react-native-calendars@1.17.4",
+    "name": "react-native-calendars",
+    "escapedName": "react-native-calendars",
+    "rawSpec": "1.17.4",
+    "saveSpec": null,
+    "fetchSpec": "1.17.4"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-calendars/-/react-native-calendars-1.17.4.tgz",
+  "_shasum": "5a3b53264d9ea7ca9292d827bc92eb8083bc5dcc",
+  "_spec": "react-native-calendars@1.17.4",
+  "_where": "/Users/awake/Desktop/work/crm",
+  "author": {
+    "name": "Wix.com"
+  },
+  "bugs": {
+    "url": "https://github.com/wix/react-native-calendars/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "prop-types": "^15.5.10",
+    "xdate": "^0.8.0"
+  },
+  "deprecated": false,
+  "description": "React Native Calendar Components",
+  "devDependencies": {
+    "babel-eslint": "^7.2.3",
+    "eslint": "^3.19.0",
+    "eslint-plugin-react": "^7.0.0",
+    "jasmine": "^2.5.2",
+    "react": "16.0.0-alpha.12",
+    "react-native": "0.47.2"
+  },
+  "homepage": "https://github.com/wix/react-native-calendars#readme",
+  "license": "MIT",
+  "main": "src/index.js",
+  "name": "react-native-calendars",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wix/react-native-calendars.git"
+  },
+  "scripts": {
+    "lint": "eslint src/ example/src",
+    "test": "jasmine src/*.spec.js && npm run lint"
+  },
+  "version": "1.17.4"
+}
